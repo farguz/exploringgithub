@@ -9,3 +9,4 @@ def format_price(price):
 
 price_int = (format_price(56.23))
 print(price_int)
+print(len(price_int))
